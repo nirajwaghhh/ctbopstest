@@ -1,0 +1,22 @@
+{
+  "name": "ctbopstest",
+  "version": "1.0.0",
+  "description": "test for dyno metrics",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirajwaghhh/ctbopstest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nirajwaghhh/ctbopstest/issues"
+  },
+  "homepage": "https://github.com/nirajwaghhh/ctbopstest#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
